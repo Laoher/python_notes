@@ -1,0 +1,1009 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="db366788-16e5-4e06-b1d6-c9ca67750e98" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$linear_regression.coverage" NAME="linear_regression Coverage Results" MODIFIED="1592226124665" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/1. Linear regression" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$largest_prime_number_less_than_N.coverage" NAME="largest prime number less than N Coverage Results" MODIFIED="1540722398354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$65__.coverage" NAME="65. 一个最优美的图案 Coverage Results" MODIFIED="1548407194366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$0__test__1_.coverage" NAME="0. test (1) Coverage Results" MODIFIED="1582038469223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Pandas" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$200__Number_of_Islands.coverage" NAME="200. Number of Islands Coverage Results" MODIFIED="1592565707667" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$word2vec.coverage" NAME="word2vec Coverage Results" MODIFIED="1548602220923" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. Upskills Validation Framework/python scripts" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_8_.coverage" NAME="1.8 计数排序 Coverage Results" MODIFIED="1548056628548" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$15__.coverage" NAME="15. 成绩分档 Coverage Results" MODIFIED="1547363424351" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$18__.coverage" NAME="18. 连加 Coverage Results" MODIFIED="1547696324337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$58__.coverage" NAME="58. 画方形 Coverage Results" MODIFIED="1548406578217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$setup.coverage" NAME="setup Coverage Results" MODIFIED="1548644326522" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. Upskills Validation Framework/python scripts" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_1_.coverage" NAME="1.1 冒泡排序 Coverage Results" MODIFIED="1547778878350" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$question2.coverage" NAME="question2 Coverage Results" MODIFIED="1600232214709" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$4__csv_path.coverage" NAME="4. 打开csv&amp;path Coverage Results" MODIFIED="1547695598349" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7. Python 实例" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$6esetate_case.coverage" NAME="6esetate case Coverage Results" MODIFIED="1600436959223" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$5__.coverage" NAME="5. 把三个数由小到大输出 Coverage Results" MODIFIED="1547130854470" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Little Practice" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$question3.coverage" NAME="question3 Coverage Results" MODIFIED="1600232603150" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$Easy_game.coverage" NAME="Easy game Coverage Results" MODIFIED="1542303675834" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$13__Roman_to_Integer.coverage" NAME="13. Roman to Integer Coverage Results" MODIFIED="1592563396950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$te.coverage" NAME="te Coverage Results" MODIFIED="1543046008025" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice/.idea" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_9_.coverage" NAME="1.9 桶排序 Coverage Results" MODIFIED="1548143802777" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$case_study.coverage" NAME="case study Coverage Results" MODIFIED="1600535693275" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$332__Reconstruct_Itinerary.coverage" NAME="332. Reconstruct Itinerary Coverage Results" MODIFIED="1592542439801" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$4__.coverage" NAME="4. 字符串 Coverage Results" MODIFIED="1548410278245" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_2_.coverage" NAME="1.2 选择排序 Coverage Results" MODIFIED="1547780395165" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$0__test.coverage" NAME="0. test Coverage Results" MODIFIED="1592718242036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Pandas" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$547__Friend_Circles.coverage" NAME="547. Friend Circles Coverage Results" MODIFIED="1592565822261" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$7__Dictionary.coverage" NAME="7. Dictionary Coverage Results" MODIFIED="1584786674343" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$39__.coverage" NAME="39. 将数字按规律插入有序数列 Coverage Results" MODIFIED="1548212520189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$29__.coverage" NAME="29. 位数统计和倒序打印 Coverage Results" MODIFIED="1547716830890" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$59__.coverage" NAME="59. 画图综合例子 Coverage Results" MODIFIED="1548406672742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1600606970124" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$dataframe.coverage" NAME="dataframe Coverage Results" MODIFIED="1541324020404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/codecademy" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$12__100200.coverage" NAME="12. 输出100到200的素数 Coverage Results" MODIFIED="1547272283290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$whatever.coverage" NAME="whatever Coverage Results" MODIFIED="1547363560527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1163__Last_Substring_in_Lexicographical_Order.coverage" NAME="1163. Last Substring in Lexicographical Order Coverage Results" MODIFIED="1592569891008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$Helloworld.coverage" NAME="Helloworld Coverage Results" MODIFIED="1536847838386" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1592796466688" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$DogHuman.coverage" NAME="DogHuman Coverage Results" MODIFIED="1540723196963" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_6_.coverage" NAME="1.6 快速排序 Coverage Results" MODIFIED="1547887407698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$word_embedding.coverage" NAME="word embedding Coverage Results" MODIFIED="1600617194984" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$2__.coverage" NAME="2. 奖金发放的条件语句 Coverage Results" MODIFIED="1546941735414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Little Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$5__list.coverage" NAME="5. list Coverage Results" MODIFIED="1548060958729" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1__combination_of_3_digit_no_from_1234.coverage" NAME="1. combination of 3 digit no from 1234 Coverage Results" MODIFIED="1546939564560" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Little Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$child_parents_process.coverage" NAME="child&amp;parents_process Coverage Results" MODIFIED="1591167891855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10. Python高级/多线程|多进程" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_3_.coverage" NAME="1.3 插入排序 Coverage Results" MODIFIED="1547784833572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1__.coverage" NAME="1. 从文本得到数字取最小绝对值 Coverage Results" MODIFIED="1547692629705" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7. Python 实例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$function.coverage" NAME="function Coverage Results" MODIFIED="1547363111792" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$399__Evaluate_Division.coverage" NAME="399. Evaluate Division Coverage Results" MODIFIED="1592549052541" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$2__print.coverage" NAME="2. print Coverage Results" MODIFIED="1547693803248" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$2__AGGREGATES_IN_PANDAS.coverage" NAME="2. AGGREGATES IN PANDAS Coverage Results" MODIFIED="1544704053930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3. Pandas" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_4_.coverage" NAME="1.4 希尔排序 Coverage Results" MODIFIED="1547793175404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$example.coverage" NAME="example Coverage Results" MODIFIED="1600450319101" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP/example" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$Latex.coverage" NAME="Latex语法 Coverage Results" MODIFIED="1547797640593" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax/内置函数" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$matplot.coverage" NAME="matplot Coverage Results" MODIFIED="1541323820007" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$3__.coverage" NAME="3. 计算 Coverage Results" MODIFIED="1582334020616" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$classifier.coverage" NAME="classifier Coverage Results" MODIFIED="1548932889930" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/Downloads/Validation Framework/python scripts" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$getinput.coverage" NAME="getinput Coverage Results" MODIFIED="1547363405295" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$join__.coverage" NAME="join() Coverage Results" MODIFIED="1547719308539" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax/内置函数" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$6__.coverage" NAME="6. 输出斐波那契数列 Coverage Results" MODIFIED="1547210479900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$57__line.coverage" NAME="57. 用line画直线 Coverage Results" MODIFIED="1548406527472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$14_3_.coverage" NAME="14.3 完数 Coverage Results" MODIFIED="1547707979189" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$38__3_3.coverage" NAME="38. 3*3矩阵对角线元素和 Coverage Results" MODIFIED="1548146567531" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$try.coverage" NAME="try Coverage Results" MODIFIED="1541335354805" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Tensorflow" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$27__.coverage" NAME="27. 递归方法反打字符 Coverage Results" MODIFIED="1547714947004" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$10__.coverage" NAME="10. 暂停一秒输出，并格式化当前时间 Coverage Results" MODIFIED="1547213430336" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_5_.coverage" NAME="1.5 归并排序 Coverage Results" MODIFIED="1547803587384" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$auto.coverage" NAME="auto Coverage Results" MODIFIED="1592503953960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax/内置函数" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$94__.coverage" NAME="94. 时间函数猜谜游戏 Coverage Results" MODIFIED="1548409218188" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$.coverage" NAME="井字棋 Coverage Results" MODIFIED="1593629525732" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/machine learning/reinforcement learning" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$17__.coverage" NAME="17. 统计字符 Coverage Results" MODIFIED="1547362176951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$Fibonacci_sequence.coverage" NAME="Fibonacci sequence Coverage Results" MODIFIED="1547362834127" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$26__.coverage" NAME="26. 递归方法求阶乘 Coverage Results" MODIFIED="1547708668053" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$if_else.coverage" NAME="if else Coverage Results" MODIFIED="1547695371075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$global.coverage" NAME="global Coverage Results" MODIFIED="1547710013960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax/内置函数" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$7__.coverage" NAME="7. 复制列表 Coverage Results" MODIFIED="1547212365079" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$question4.coverage" NAME="question4 Coverage Results" MODIFIED="1600229337912" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$16__.coverage" NAME="16. 输出指定格式的日期 Coverage Results" MODIFIED="1547361785359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$condition.coverage" NAME="condition Coverage Results" MODIFIED="1540722195951" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$4__String.coverage" NAME="4. String Coverage Results" MODIFIED="1543051796247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Basic Practice" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$test.coverage" NAME="test Coverage Results" MODIFIED="1592492465460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="coverage/PycharmProjects$model.coverage" NAME="model Coverage Results" MODIFIED="1600455636474" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/NLP/example" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$syntax.coverage" NAME="syntax Coverage Results" MODIFIED="1547690249100" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$20__.coverage" NAME="20. 反弹球路径 Coverage Results" MODIFIED="1547707966950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$30__.coverage" NAME="30. 判断一个数是否是回文数 Coverage Results" MODIFIED="1547718741683" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$11__.coverage" NAME="11. 输出 Coverage Results" MODIFIED="1547363419339" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$34__.coverage" NAME="34. 文本颜色设置 Coverage Results" MODIFIED="1547742259698" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$44__.coverage" NAME="44. 矩阵相加 Coverage Results" MODIFIED="1548404470106" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$40__.coverage" NAME="40. 逆序输出数组 Coverage Results" MODIFIED="1548212696324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$frequencies.coverage" NAME="frequencies Coverage Results" MODIFIED="1548642786510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. Upskills Validation Framework/python scripts" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_10_.coverage" NAME="1.10 基数排序 Coverage Results" MODIFIED="1548144661179" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$14__.coverage" NAME="14. 分解质因数 Coverage Results" MODIFIED="1547697654016" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$6__Boolean.coverage" NAME="6. Boolean Coverage Results" MODIFIED="1544194584090" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$9__.coverage" NAME="9. 暂停一秒输出 Coverage Results" MODIFIED="1547213424382" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$10__library.coverage" NAME="10. library Coverage Results" MODIFIED="1546938619877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$41__.coverage" NAME="41. 模仿静态变量的用法※ Coverage Results" MODIFIED="1548296895472" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$33__.coverage" NAME="33. 按逗号分隔列表 Coverage Results" MODIFIED="1547718981022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$8__.coverage" NAME="8. 输出乘法口诀表 Coverage Results" MODIFIED="1547213149113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$743__Network_Delay_Time.coverage" NAME="743. Network Delay Time Coverage Results" MODIFIED="1592748397812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15. leetcode" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$13__.coverage" NAME="13. 水仙花数 Coverage Results" MODIFIED="1547280260389" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$td_generation.coverage" NAME="td_generation Coverage Results" MODIFIED="1548932460102" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/0. Upskills Validation Framework/Test data" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$4__String__1_.coverage" NAME="4. String (1) Coverage Results" MODIFIED="1544843588288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/1. Syntax" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$56__canvas.coverage" NAME="56. 用canvas画圆 Coverage Results" MODIFIED="1548406344606" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/6. Python 100例" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$1_7_.coverage" NAME="1.7 堆排序 Coverage Results" MODIFIED="1547891777906" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/8. Python 算法/排序" />
+    <SUITE FILE_PATH="PyCharm2017.2/coverage/PycharmProjects$pygame_tutorial__1.coverage" NAME="pygame tutorial #1 Coverage Results" MODIFIED="1592227662256" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12. Pygame/pygame tutorial 1" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$USER_HOME$/BERT-project/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="run_classifier.py" pinned="false" current-in-tab="true">
+        <entry file="file://$USER_HOME$/BERT-project/bert/run_classifier.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>bad</find>
+      <find>b</find>
+      <find>输入</find>
+      <find>ax</find>
+      <find>save</find>
+      <find>upper</find>
+      <find>title</find>
+      <find>列</find>
+      <find>type</find>
+      <find>key</find>
+      <find>stop</find>
+      <find>plt</find>
+      <find>model.sa</find>
+      <find>train_data</find>
+      <find>a colorf</find>
+      <find>the colorful</find>
+      <find>the color</find>
+      <find>movie-industry</find>
+      <find>94-minute</find>
+      <find>word_index</find>
+      <find>word_vector</find>
+      <find>max_words</find>
+      <find>train_y</find>
+      <find>lower</find>
+      <find>cutword</find>
+      <find>print</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/Basic Practice</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$/BERT-project" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/1. Syntax/4. 字符串.py" />
+        <option value="$PROJECT_DIR$/1. Syntax/8. Function.py" />
+        <option value="$PROJECT_DIR$/1. Syntax/运算符重载.py" />
+        <option value="$PROJECT_DIR$/10. Python高级/多线程|多进程/child&amp;parents_process.py" />
+        <option value="$PROJECT_DIR$/machine learning/1. Linear regression/linear_regression.py" />
+        <option value="$PROJECT_DIR$/1. Syntax/test.py" />
+        <option value="$PROJECT_DIR$/1. Syntax/内置函数/auto.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/310 Minimum Height Trees.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/332. Reconstruct Itinerary.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/399. Evaluate Division.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/13. Roman to Integer.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/14.Longest Common Prefix.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/94. Binary Tree Inorder Traversal.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/200. Number of Islands.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/547. Friend Circles.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/1163. Last Substring in Lexicographical Order.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/1038. Binary Search Tree to Greater Sum Tree.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/257. Binary Tree Paths.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/21. Merge Two Sorted Lists.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/83..py" />
+        <option value="$PROJECT_DIR$/15. leetcode/83. Remove Duplicates from Sorted List.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/141. Linked List Cycle.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/160. Intersection of Two Linked Lists.py" />
+        <option value="$PROJECT_DIR$/3. Pandas/0. test.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/743. Network Delay Time.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/test2.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/test3.py" />
+        <option value="$PROJECT_DIR$/15. leetcode/test1.py" />
+        <option value="$PROJECT_DIR$/machine learning/reinforcement learning/井字棋.py" />
+        <option value="$PROJECT_DIR$/question1.py" />
+        <option value="$PROJECT_DIR$/question3.py" />
+        <option value="$PROJECT_DIR$/question2.py" />
+        <option value="$PROJECT_DIR$/question4.py" />
+        <option value="$PROJECT_DIR$/NLP/work.csv" />
+        <option value="$PROJECT_DIR$/NLP/6esetate case.py" />
+        <option value="$PROJECT_DIR$/NLP/backupcode.py" />
+        <option value="$PROJECT_DIR$/NLP/example.py" />
+        <option value="$PROJECT_DIR$/NLP/example/example.py" />
+        <option value="$PROJECT_DIR$/NLP/example/model.py" />
+        <option value="$PROJECT_DIR$/NLP/case study.py" />
+        <option value="$PROJECT_DIR$/NLP/decision tree.py" />
+        <option value="$PROJECT_DIR$/NLP/test.py" />
+        <option value="$PROJECT_DIR$/NLP/LSTM.py" />
+        <option value="$PROJECT_DIR$/NLP/glove.840B.300d_filtered.txt" />
+        <option value="$PROJECT_DIR$/NLP/Readme" />
+        <option value="$PROJECT_DIR$/NLP/word embedding.py" />
+        <option value="$PROJECT_DIR$/NLP/result.txt" />
+        <option value="$PROJECT_DIR$/NLP/run.py" />
+        <option value="$PROJECT_DIR$/NLP/字符串操作.py" />
+        <option value="$PROJECT_DIR$/1. Syntax/4. 字符串操作.ipynb" />
+        <option value="$USER_HOME$/BERT-project/bert/run_classifier.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="y" value="23" />
+    <option name="width" value="1918" />
+    <option name="height" value="839" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BERT-project" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="PycharmProjects" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BERT-project" type="462c0819:PsiDirectoryNode" />
+              <item name="bert" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="PycharmProjects" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="PycharmProjects" />
+        <option name="myAddSourceRoots" value="true" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/1. Syntax" />
+      <recent name="$PROJECT_DIR$/NLP/example" />
+      <recent name="$PROJECT_DIR$/0. Upskills Validation Framework" />
+      <recent name="$PROJECT_DIR$/0. Upskills Validation Framework/python scripts/build" />
+      <recent name="$PROJECT_DIR$/8. Python 算法/排序" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NLP" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.word embedding">
+    <configuration name="1163. Last Substring in Lexicographical Order" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/15. leetcode" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/15. leetcode/1163. Last Substring in Lexicographical Order.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="Easy game" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Practice/Easy game.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="case study" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/LSTM.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="example" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/example/example.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="matplot" type="PythonConfigurationType" factoryName="Python">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Basic Practice" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Basic Practice/matplot.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="model" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/example/model.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <configuration name="word embedding" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/NLP" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="PycharmProjects" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" enabled="false" sample_coverage="true" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/NLP/run.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+    </configuration>
+    <list size="7">
+      <item index="0" class="java.lang.String" itemvalue="Python.Easy game" />
+      <item index="1" class="java.lang.String" itemvalue="Python.matplot" />
+      <item index="2" class="java.lang.String" itemvalue="Python.case study" />
+      <item index="3" class="java.lang.String" itemvalue="Python.example" />
+      <item index="4" class="java.lang.String" itemvalue="Python.model" />
+      <item index="5" class="java.lang.String" itemvalue="Python.word embedding" />
+      <item index="6" class="java.lang.String" itemvalue="Python.test" />
+    </list>
+    <recent_temporary>
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Python.word embedding" />
+        <item index="1" class="java.lang.String" itemvalue="Python.test" />
+        <item index="2" class="java.lang.String" itemvalue="Python.case study" />
+        <item index="3" class="java.lang.String" itemvalue="Python.model" />
+        <item index="4" class="java.lang.String" itemvalue="Python.example" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="db366788-16e5-4e06-b1d6-c9ca67750e98" name="Default" comment="" />
+      <created>1516893084811</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516893084811</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1440" height="839" extended-state="6" />
+    <layout>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3286445" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25757575" sideWeight="0.51757187" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32736573" sideWeight="0.48988286" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34632036" sideWeight="0.41214058" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.44489247" sideWeight="0.4824281" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31402004" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.37229437" sideWeight="0.4339723" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5078684" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32911393" sideWeight="0.4926304" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2601969" sideWeight="0.49213162" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.19742489" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Concurrent Activities Diagram" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32905984" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.28917378" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Data View" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3297568" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1. Syntax/内置函数/auto.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="26" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/332. Reconstruct Itinerary.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/399. Evaluate Division.py</url>
+          <line>47</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/399. Evaluate Division.py</url>
+          <line>18</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/200. Number of Islands.py</url>
+          <line>11</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/200. Number of Islands.py</url>
+          <line>25</line>
+          <option name="timeStamp" value="37" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/200. Number of Islands.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/547. Friend Circles.py</url>
+          <line>19</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/15. leetcode/743. Network Delay Time.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="45" />
+        </line-breakpoint>
+      </breakpoints>
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+      <option name="time" value="54" />
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="i" />
+        <watch expression="t" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/15. leetcode/141. Linked List Cycle.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="20" lean-forward="true" selection-start-line="16" selection-start-column="20" selection-end-line="16" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/160. Intersection of Two Linked Lists.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3. Pandas/0. test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/257. Binary Tree Paths.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="17" lean-forward="false" selection-start-line="14" selection-start-column="17" selection-end-line="14" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/547. Friend Circles.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/anaconda/envs/tylertf/lib/python3.6/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="185">
+          <caret line="308" column="0" lean-forward="false" selection-start-line="308" selection-start-column="0" selection-end-line="308" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/743. Network Delay Time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/1163. Last Substring in Lexicographical Order.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="34" lean-forward="false" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/1038. Binary Search Tree to Greater Sum Tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="24" lean-forward="false" selection-start-line="5" selection-start-column="24" selection-end-line="5" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/test1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="13" column="33" lean-forward="false" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/machine learning/reinforcement learning/井字棋.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3834">
+          <caret line="214" column="13" lean-forward="false" selection-start-line="214" selection-start-column="13" selection-end-line="214" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/test3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/15. leetcode/test2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Keras/generate data.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="22" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question4.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="5" lean-forward="false" selection-start-line="16" selection-start-column="5" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="21" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/question1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/backupcode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="21" lean-forward="false" selection-start-line="9" selection-start-column="21" selection-end-line="9" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/work.csv">
+      <provider selected="true" editor-type-id="csv-text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+      <provider editor-type-id="csv-table-editor">
+        <state showInfoPanel="true" fixedHeaders="false" rowLines="3" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/test_csv.csv" />
+    <entry file="file://$PROJECT_DIR$/NLP/test_new.json" />
+    <entry file="file://$PROJECT_DIR$/Keras/keras1.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="11" column="0" lean-forward="false" selection-start-line="11" selection-start-column="0" selection-end-line="15" selection-end-column="61" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/example/example.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="22" lean-forward="false" selection-start-line="8" selection-start-column="22" selection-end-line="8" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/example/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="25" column="0" lean-forward="true" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/test.csv" />
+    <entry file="file://$PROJECT_DIR$/NLP/train_new.json" />
+    <entry file="file://$PROJECT_DIR$/NLP/dev_new.json" />
+    <entry file="file://$PROJECT_DIR$/NLP/dev.csv" />
+    <entry file="file://$PROJECT_DIR$/NLP/train.csv" />
+    <entry file="file://$PROJECT_DIR$/NLP/test.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="239" column="43" lean-forward="false" selection-start-line="239" selection-start-column="43" selection-end-line="239" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/dev.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="143">
+          <caret line="286" column="25" lean-forward="false" selection-start-line="286" selection-start-column="25" selection-end-line="286" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/LSTM_model.h5">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/train.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22986">
+          <caret line="1277" column="37" lean-forward="false" selection-start-line="1277" selection-start-column="28" selection-end-line="1277" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2017.2/python_stubs/-190061501/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="193">
+          <caret line="477" column="4" lean-forward="false" selection-start-line="477" selection-start-column="4" selection-end-line="477" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/6esetate case.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="7" column="14" lean-forward="false" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/glove.840B.300d.txt">
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="119">
+          <caret line="469" column="12" lean-forward="false" selection-start-line="469" selection-start-column="12" selection-end-line="469" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/decision tree.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="218" column="28" lean-forward="false" selection-start-line="218" selection-start-column="28" selection-end-line="218" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/Readme" />
+    <entry file="file://$PROJECT_DIR$/NLP/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#1241#2660#0" expanded="false" />
+            <element signature="e#2693#3203#0" expanded="false" />
+            <element signature="e#3275#4022#0" expanded="false" />
+            <element signature="e#4117#4963#0" expanded="false" />
+            <element signature="e#5008#5257#0" expanded="false" />
+            <element signature="e#5288#5537#0" expanded="false" />
+            <element signature="e#5562#5642#0" expanded="false" />
+            <element signature="e#5780#5866#0" expanded="false" />
+            <element signature="e#5903#5989#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Syntax/string_operation.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/glove.840B.300d_filtered.txt">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="37" column="49" lean-forward="false" selection-start-line="37" selection-start-column="49" selection-end-line="37" selection-end-column="49" />
+          <folding />
+        </state>
+      </provider>
+      <provider selected="true" editor-type-id="LargeFileEditor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="29" column="36" lean-forward="false" selection-start-line="29" selection-start-column="36" selection-end-line="29" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/result.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/run.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="641">
+          <caret line="213" column="18" lean-forward="false" selection-start-line="213" selection-start-column="18" selection-end-line="213" selection-end-column="18" />
+          <folding>
+            <element signature="e#0#18#0" expanded="false" />
+            <element signature="e#1241#2660#0" expanded="false" />
+            <element signature="e#2693#3203#0" expanded="false" />
+            <element signature="e#3275#4022#0" expanded="false" />
+            <element signature="e#4117#4963#0" expanded="false" />
+            <element signature="e#5008#5257#0" expanded="false" />
+            <element signature="e#5288#5537#0" expanded="false" />
+            <element signature="e#5562#5642#0" expanded="false" />
+            <element signature="e#5780#5866#0" expanded="false" />
+            <element signature="e#5903#5989#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/1. Syntax/4. 字符串操作.ipynb">
+      <provider selected="true" editor-type-id="ipnb-editor">
+        <state>
+          <selected id="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/字符串操作.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <element signature="e#0#13#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/NLP/LSTM.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#35#0" expanded="false" />
+            <element signature="e#2321#2683#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/BERT-project/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="14" lean-forward="false" selection-start-line="0" selection-start-column="14" selection-end-line="0" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/BERT-project/bert/run_classifier.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="47" column="0" lean-forward="false" selection-start-line="47" selection-start-column="0" selection-end-line="47" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

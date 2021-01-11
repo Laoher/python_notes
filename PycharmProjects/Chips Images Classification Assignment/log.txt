@@ -1,0 +1,13 @@
+    ------------ 2019-06-10 22:09:51 --------------
+
+    Testing result: 
+
+    Testing samples : 9600
+    Running time : 15.0000 seconds
+    Loss : 0.0280
+    Accuracy : 0.9905                                                     
+        Predicted condition                     True condition
+                                   Condition positive      Condition negative
+    Predicted condition positive   True Positive: 2365     False Positive: 56      
+    Predicted condition negative   False Negative: 35      True Negative: 7144
+    

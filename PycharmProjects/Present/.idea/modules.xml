@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../Livestream Game/.idea/Livestream Game.iml" filepath="$PROJECT_DIR$/../Livestream Game/.idea/Livestream Game.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/Present.iml" filepath="$PROJECT_DIR$/.idea/Present.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../.idea/PycharmProjects.iml" filepath="$PROJECT_DIR$/../.idea/PycharmProjects.iml" />
+      <module fileurl="file://$USER_HOME$/notes-python/.idea/notes-python.iml" filepath="$USER_HOME$/notes-python/.idea/notes-python.iml" />
+    </modules>
+  </component>
+</project>
