@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/LinearRegression.iml" filepath="$PROJECT_DIR$/.idea/LinearRegression.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Numerical Method/.idea/Numerical Method.iml" filepath="$PROJECT_DIR$/../Numerical Method/.idea/Numerical Method.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" filepath="$PROJECT_DIR$/../Tensorflow/.idea/Tensorflow.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../machine learning/.idea/machine learning.iml" filepath="$PROJECT_DIR$/../machine learning/.idea/machine learning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../plot/.idea/plot.iml" filepath="$PROJECT_DIR$/../plot/.idea/plot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Basic Practice/.idea/untitled.iml" filepath="$PROJECT_DIR$/../Basic Practice/.idea/untitled.iml" />
+    </modules>
+  </component>
+</project>
