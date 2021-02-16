@@ -5,25 +5,46 @@ import itertools
 
 
 class Solution:
-    def romanToInt(self, s: str) -> int:
-        dict = {'I':1,'V':5,'X':10,'L':50,'C':100,'D':500,'M':1000}
-        sum = 0
-        for i in range(len(s)):
-            letter = s[i]
-            sign =1
-            if i <len(s)-1:
-                next_letter = s[i+1]
-                if dict[letter]<dict[next_letter]:
-                    sign = -1
-            sum+=sign*dict[letter]
-        return sum
+    def findMedianSortedArrays(self, nums1: List[int], nums2: List[int]) -> float:
+        def position(index):
+            current_counting = 0
 
+            pt1 = 0
+            pt2 = 0
+            while not current_counting == index:
+                if pt1 == len(nums1):
+                    median = nums2[pt2]
+                    pt2 += 1
+                    current_counting += 1
+                    continue
 
+                if pt2 == len(nums2):
+                    median = nums1[pt1]
+                    pt1 += 1
+                    current_counting += 1
+                    continue
+                if pt1 != len(nums1) and pt2 != len(nums2):
+                    if nums1[pt1] < nums2[pt2]:
+                        median = nums1[pt1]
+                        pt1 += 1
+                    else:
+                        median = nums2[pt2]
+                        pt2 += 1
+                    current_counting += 1
+                    continue
 
+            return median
+
+        total = len(nums1) + len(nums2)
+        middle = int(total / 2)
+        if total % 2 == 0:
+            return (position(middle)+position(middle+1)) / 2
+        if total % 2 == 1:
+            return position(middle+1)
 
 
 
 
 
 a = Solution()
-print(a.romanToInt("MCMXCIV"))
+print(a.findMedianSortedArrays(nums1 = [2], nums2 = []))
