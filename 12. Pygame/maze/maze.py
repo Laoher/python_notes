@@ -5,7 +5,7 @@ import pygame
 
 from maze_generator import generate_maze
 from maze_solver import solve_maze
-from utils import stop_thread7Ppp
+from utils import stop_thread
 import random
 
 pygame.init()
@@ -104,7 +104,7 @@ def random_maze_size():
 
 if __name__ == '__main__':
     # 生成迷宫与入口
-    size = random_maze_size()
+    size = random_maze_size() # 返回一个规定好的随机数
     MAZE, ENTRANCE, EXIT = generate_maze(size, size)
     SOLVE_THREAD = threading.Thread(target=solve_maze, args=(MAZE, ENTRANCE, EXIT, draw_maze))
     SOLVE_THREAD.start()
