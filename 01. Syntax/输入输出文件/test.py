@@ -8,8 +8,10 @@
 #
 # open(training_path.parent / ("whafv"+".txt"))
 
-x = [0,3,45,None]
+from random import choice
 
-y = [i for i in x if i is not None and i-3==0]
+x = [[[0,3],45,None],1]
+
+y = choice(x)
 
 print(y)
